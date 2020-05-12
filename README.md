@@ -7,3 +7,6 @@ By the 'low of mass action' no. of meeting of infected and susceptibles is propo
 1.s(t+1) = s(t) - lambda.s(t).i(t).dt
 2.i(t+1) = i(t) + lambda.s(t).i(t).dt - gamma.i(t).dt
 3.r(t+1) = r(t) + gamma.i(t).dt here gamma is removed from the infacteds per days. loss of susceptible is gain for infecteds. loss rate of infacted people is just a constant probability of recovery.
+
+
+project is on going....
